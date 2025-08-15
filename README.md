@@ -31,5 +31,5 @@ Acesse o deploy <a href="amigo-secreto-sigma-olive.vercel.app">clicando aqui</a>
 
 <h2>🍯 Autora</h2>
 
-| [<img loading="lazy" src="" width=115><br><sub>Melissa Wolff</sub>](https://github.com/melwolff13) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/168154573?v=4" width=115><br><sub>Melissa Wolff</sub>](https://github.com/melwolff13) |
 | :---: |

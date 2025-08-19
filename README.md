@@ -19,7 +19,7 @@ Projeto desenvolvido para o primeiro desafio ONE. Realiza o sorteio de um amigo 
 
 <h2>🌍 Deploy</h2>
 
-Acesse o deploy <a href="amigo-secreto-sigma-olive.vercel.app">clicando aqui</a>
+Acesse o deploy <a href="https://amigo-secreto-sigma-olive.vercel.app">clicando aqui</a>
 
 <h2>🛠️ Tecnologias utilizadas</h2>
 
